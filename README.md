@@ -3,7 +3,7 @@
 A two-stage pipeline that ingests live power generation, CO₂ emissions, price, and demand data from Australia's **National Electricity Market (NEM)**, cleans and merges it, and streams it over **MQTT** to a live interactive map — facilities sized by output and colour-coded by fuel type, with click-to-inspect details.
 
 ![Live map demo](assets/demo.gif)
-*Replace this with a screen recording of the live map in action.*
+
 
 ---
 
