@@ -79,6 +79,7 @@ pip install -r requirements.txt
 ### 3. Set up your API key
 
 Get a free API key from [openelectricity.org.au](https://openelectricity.org.au/).
+Add this API to the placeholder in INGEST_CLEAN_PUBLISH.ipynb
 
 
 
